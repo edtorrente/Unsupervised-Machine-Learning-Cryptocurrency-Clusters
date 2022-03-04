@@ -47,5 +47,4 @@
 
 ### Recommendation
 
-* Based on your findings, make a brief (1-2 sentences) recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters? 
-
+The best K-value was found to be 4 using KMeans method. Based on the findings above, I would not recommend that clients invest in crypto currencies in the trading market. As indicated above the clusters did not provide any discernable information.
