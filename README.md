@@ -38,8 +38,6 @@
 * 3D Visualization of CryptoCurrency Results
 ![3d_plot with cluster.png](https://github.com/edtorrente/Unsupervised-Machine-Learning-Cryptocurrency-Clusters/blob/main/images/3d_plot%20with%20cluster.png)
 
-* 2D Scatter plot with Clusters results
-![cluster scatter plot.png](https://github.com/edtorrente/Unsupervised-Machine-Learning-Cryptocurrency-Clusters/blob/main/images/cluster%20scatter%20plot.png)
 
 * Tradeable Cryptocurrency Table
 ![tradeable crypto.png](https://github.com/edtorrente/Unsupervised-Machine-Learning-Cryptocurrency-Clusters/blob/main/images/tradeable%20crypto.png)
